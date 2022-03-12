@@ -1,4 +1,4 @@
-# Telegram_bot
+# Baracus Bot
 ## This is a Telegram Bot with Google Calendar API
 ### objective
 This bot is to conect with google calendar and show the ten nexts events with the begin date and end date.
